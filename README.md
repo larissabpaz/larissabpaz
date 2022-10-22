@@ -6,5 +6,5 @@
 
 - 👋 Hi, I’m @larissabpaz
 - 🌱 I’m currently study systems analysis and development
-- 📫 How to reach me: larissabragadapaz@gmail.com
+- 📫 How to reach me: laribragadapaz@gmail.com
 -->
