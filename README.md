@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larissabpaz
-- 🏢 I'm a Software Developer working in Brazil. I'm currently working at Neuco Tecnologia
+- 🏢 I'm a Software Developer working in Brazil. I'm currently working at Tamborete Pagamentos LTDA
 - ⚙️ I use daily: .tsx, .js, .html, .css, .react, .net, .c#
 - 📫 Reach me: laribragapaz@gmail.com
 <!--
